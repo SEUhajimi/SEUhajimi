@@ -18,5 +18,4 @@
 | ![Stats](https://github-readme-stats.vercel.app/api?username=SEUhajimi&show_icons=true&theme=transparent) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUhajimi&layout=compact&theme=transparent) |
 
 ---
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-https://img.shields.io/badge/Just_test-10.0M-blue
+![Static Badge](https://img.shields.io/badge/Just_test-10.0M-blue)
