@@ -1,3 +1,3 @@
 # SEUhajimi
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUhajimi&layout=compact&theme=radical)
