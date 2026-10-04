@@ -1,4 +1,4 @@
-# Hi there, I'm SEUhajimi 👋
+# Hi there, I'm Henry 👋
 
 ### 💫 About Me
 - 🔭 I’m currently working on **Database Systems** and **AI Agents**.
