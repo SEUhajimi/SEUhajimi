@@ -1,8 +1,8 @@
 # Hi there, I'm Henry 👋
 
 ### 💫 About Me
-- 🔭 I’m currently working on **Database Systems** and **AI Agents**.
-- 🌱 I’m currently learning **Generative AI** and **Advanced Java**.
+- 🔭 I’m currently working on vibe coding. 
+- 🌱 I’m currently learning Java/Data structure and algorithm/JVM/JUC/MySQL/Redis/MQ.
 - 👯 I’m looking to collaborate on Open Source projects.
 
 ---
